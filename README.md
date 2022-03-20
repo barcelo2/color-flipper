@@ -1,7 +1,7 @@
 # Color flipper Effect
 
 ## Project description
-Flip colors using Random number in JS
+Flip colors using a random number generator in JS to change HEX color palette
 
 
 
